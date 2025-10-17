@@ -2,6 +2,7 @@
 """
 nombre = input('Ingrese su nombre: ') 
 print(f'Su nombre es: {(nombre)}')
+print(f'Su nombre es: {(nombre)}')
 """
 
 # PROGRAMA QUE PIDA A USUARIO UN NRO. LE SUME 5 Y LO MUESTRE
